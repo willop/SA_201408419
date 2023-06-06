@@ -1,0 +1,31 @@
+#pokecards{
+  display:inline-table;
+  width: 85%;
+  margin-left: 6%;
+  margin-bottom: 15%;
+}
+
+#card_poke{
+  display: inline-block;
+  margin-left: 5%;
+}
+
+#card{
+  height: 400px;
+}
+
+#card_img{
+  height: 300px;
+}
+
+h1{
+  color:yellow !important;
+}
+#Formulario{
+  width: 60%;
+  margin-left: 20%;
+}
+
+.App{
+  background-color: red;
+}
